@@ -1,0 +1,2 @@
+# ExplorerWatchdog
+用于监测explorer进程异常闪退并将其恢复的一个工具
